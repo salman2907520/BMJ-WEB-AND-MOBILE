@@ -1,0 +1,141 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+}
+.acid{
+    color: brown;
+    font-size: xx-large;
+    font-family: monospace;
+}
+.one{
+    height: 40px;
+    background-color: rgba(250, 4, 4, 0.986);
+    font-size: xx-large;
+    text-align: center;
+    border: 1px solid;
+}
+
+.two{
+    background-color: rgba(253, 10, 10, 0.877);
+    font-size: xx-large;
+    text-align: center;
+    border: 1px solid;
+    height: 40px;
+}
+.three{
+    background-color:rgba(255, 0, 0, 0.664) ;
+    font-size: xx-large;
+    text-align: center;
+    border: 1px solid;
+    height: 40px;
+}
+
+.four{
+    background-color:rgba(255, 145, 0, 0.89) ;
+    font-size: xx-large;
+    text-align: center;
+    border: 1px solid;
+    height: 40px;
+}
+.five{
+    background-color:rgba(255, 157, 0, 0.692) ;
+    font-size: xx-large;
+    text-align: center;
+    border: 1px solid;
+    height: 40px;
+}
+.neutral{
+    color: rgb(0, 89, 255);
+    font-family: monospace;
+    font-size: xx-large;
+}
+.six{
+    background-color:rgba(255, 255, 0, 0.726) ;
+    font-size: xx-large;
+    text-align: center;
+    border: 1px solid;
+    height: 40px;
+}
+.seven{
+    background-color:rgba(47, 252, 6, 0.726) ;
+    font-size: xx-large;
+    text-align: center;
+    border: 1px solid;
+    height: 40px;
+}
+.eight{
+    background-color:rgba(33, 180, 33, 0.938) ;
+    font-size: xx-large;
+    text-align: center;
+    border: 1px solid;
+    height: 40px;
+}
+.nine{
+    background-color:rgba(74, 130, 182, 0.945) ;
+    font-size: xx-large;
+    text-align: center;
+    border: 1px solid;
+    height: 40px;
+}
+.ten{
+    background-color: #294fca;
+    font-size: xx-large;
+    text-align: center;
+    border: 1px solid;
+    height: 40px;
+}
+.alkali{
+    color: blue;
+    font-size: xx-large;
+
+}
+.eleven{
+    background-color: #09096d;
+    font-size: xx-large;
+    text-align: center;
+    border: 1px solid;
+    height: 40px;
+
+}
+.twelve{
+    background-color:rgb(46, 5, 82) ;
+    font-size: xx-large;
+    text-align: center;
+    border: 1px solid;
+    height: 40px;
+}
+.thirteen{
+    background-color: #690b75;
+    font-size: xx-large;
+    text-align: center;
+    border: 1px solid;
+    height: 40px;
+}
+.fourteen{
+    background-color:#810d55 ;
+    font-size: xx-large;
+    text-align: center;
+    border: 1px solid;
+    height: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
