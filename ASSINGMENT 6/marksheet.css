@@ -1,0 +1,65 @@
+.one {
+    font-family: sans-serif;
+    border-collapse: collapse;
+    /* border-color: lightgray; */
+    height: 20px;
+}
+
+th {
+    border: solid 0.5px;
+    background-color: lightgreen;
+    font-size: 80%;
+    padding: 10px;
+    border: lightgray;
+    text-decoration-color: lightpink;
+}
+
+td {
+    border: solid 0.5px black;
+    font-size: 80%;
+    padding: 5px;
+}
+
+.firstcolumn {
+    background-color: whitesmoke;
+    border: darkgray;
+    height: 20px;
+    padding: 10px;
+}
+
+.secondcolumn {
+    border: lightgray;
+    height: 20px;
+    padding: 8px;
+}
+
+.thirdcolumn {
+    background-color: whitesmoke;
+    border: lightgray;
+    padding: 8px;
+}
+
+.forthcolumn {
+    border: lightgray;
+    padding: 8px;
+}
+
+.fifthcolumn {
+    background-color: whitesmoke;
+    border: lightgray;
+    padding: 8px;
+}
+
+.sixthcolumn {
+    border: lightgray;
+    padding: 8px;
+}
+
+.seventhcolumn {
+    background-color: whitesmoke;
+    border: lightgray;
+    padding: 8px;
+}
+
+
+}
