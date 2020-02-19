@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    
+    
+    <form action="formsubmit.html" method="post">
+        <fieldset>
+            <legend>Personal info</legend>
+            <label for="username">Username:</label><input type="text" name="username" maxlength="16" required="required" placeholder="username"><br><br>
+                <label for="lastname">Lastname:</label><input type=" text " name="lastname " maxlength="20" required="required" placeholder="lastname"> <br> <br>
+                <label for="password">Password:</label><input type="password" maxlength="15" required="required" placeholder="password"><br><br>
+                <label for="email">Email:</label><input type="email" name="email" required="required" placeholder="email address"><br><br>
+                <label for="url">URL:</label><input type="url" name="url" id="" required="required" placeholder="website"><br><br>
+                <label for="search">Search:</label><input type="search" name="search"><br><br>
+                <label for="comments">Comments:</label><textarea name="Comments" id="" cols="15" rows="7">Your comments...</textarea>
+              
+               <br><br>
+            
+              Gender:
+               <input id="male" type="radio" name="Gender" value="m"> <label for="male">Male</label>
+               <input id="female" type="radio" name="Gender" value="F">  <label for="female">Female</label>
+               <input id="shemale" type="radio" name="Gender" value="S"> <label for="shemale">shemale</label>
+            </fieldset>
+                <br><br>
+                <fieldset>
+                    <legend>Hobbies</legend>
+               Movie:<input type="checkbox" name="Movie" value="I LOVE YOU" checked="checked">I LOVE  YOU 
+               <input type="checkbox" name="Movie" value="I HAtE YOU" checked="checked">I HATE YOU 
+               <input type="checkbox" name="Movie" value="I MISS YOU" checked="checked">I MISS YOU
+            </fieldset>
+                <br><br>
+
+               <select name="Computer" id="" multiple="multiple" size="3">
+                   <option value="dell laptop">DELL LAPTOP</option> 
+                   <option value="hp laptop">HP LAPTOP</option> 
+                   <option value="lenovo laptop">LENOVO LAPTOP</option> 
+                   <option value="toshiba laptop">TOSHIBA LAPTOP</option>
+                   <option value="acer laptop">ACER LAPTOP</option> 
+
+               </select><br><br>
+              <label for="date">Date:</label><input type="date" name="date">
+               <br><br>
+               <p>Upload your current C.V.</p>
+                <input type="file" name="c.v/resume"><br><br>
+                <input type="image" src="./download.png" width="150px" height="120px">
+                  <!-- <input type="submit" value="upload"> -->
+    </form>
+
+</body>
+
+</html>
